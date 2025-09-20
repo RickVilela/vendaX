@@ -1,0 +1,2 @@
+# vendaX
+Aplicação VendaX - SaaS
